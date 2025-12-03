@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\zaidm\OneDrive\Escritorio\ARDUINO\DESARROLLO3\monitor-arduino-fat.jar</jar>
+  <outfile>C:\Users\zaidm\OneDrive\Escritorio\ARDUINO\DESARROLLO3\desarollo.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\zaidm\Downloads\LOGO-OJO-BUHO-NEGRO-2048x1669.ico</icon>
+  <classPath>
+    <mainClass>mx.unison.monitor.MainApp</mainClass>
+  </classPath>
+  <jre>
+    <path>jre</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>17.0.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
