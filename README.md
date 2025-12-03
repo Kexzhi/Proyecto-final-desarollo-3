@@ -189,10 +189,6 @@ La “seguridad” aquí se centra en:
 
 ## 1. Pantalla de inicio (`HomePanel.java`)
 
-### Modo día
-
-<img src="./IMAGENES%20GITHUB/inicio%20modo%20dia.png" width="650">
-
 ### Modo oscuro
 
 <img src="./IMAGENES%20GITHUB/inicio%20modo%20oscuro.png" width="650">
